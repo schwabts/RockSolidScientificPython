@@ -2,8 +2,9 @@
 
 This repo does not contain my own code!
 
-It is just a fork of David Ketcheson's useful tutorial
-[12 steps toward rock-solid scientific Python code](https://www.davidketcheson.info/2015/05/10/rock_solid_code.html).
+I just started with a fork of David Ketcheson's useful tutorial
+[12 steps toward rock-solid scientific Python code](https://www.davidketcheson.info/2015/05/10/rock_solid_code.html)
+leaving out some parts whenever I felt like doing so.
 David provides a demo of best practices for reliable scientific code as described in 
 [a series of blog posts](http://davidketcheson.info/2015/05/12/rock_solid_code.html).
 
