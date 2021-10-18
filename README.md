@@ -15,7 +15,7 @@ This code requires Python and numpy.  If you have Python and pip, you can get nu
 
     pip install numpy
 
-##Installation
+## Installation
 To use this code, you should first copy it to your computer via
 
     git clone https://github.com/ketch/rock-solid-code-demo.git
