@@ -6,6 +6,7 @@ It is just a fork of David Ketcheson's useful tutorial
 [12 steps toward rock-solid scientific Python code](https://www.davidketcheson.info/2015/05/10/rock_solid_code.html).
 David provides a demo of best practices for reliable scientific code as described in 
 [a series of blog posts](http://davidketcheson.info/2015/05/12/rock_solid_code.html).
+
 All rights related to this contents are his!
 
 The code in this repo implements Gaussian elimination without pivoting.  Given a square matrix,
